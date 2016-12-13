@@ -1,3 +1,9 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Dec 12 19:07:35 2016
+
+@author: mengqian
+"""
 # looping techniques
 # 1---when looping through dictionaries ,the key and corresponding value can be retrieved at the same time
 # using the item() method
